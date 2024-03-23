@@ -1,0 +1,19 @@
+.Flex-All-Center
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Button
+{
+    padding: 5px 10px;
+    color: beige;
+    background-color: rgb(35, 72, 194);
+    border: 2px solid white;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.my
+{
+    margin: 25px 0;
+}
